@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aswin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm an enthusiastic newcomer to the world of Python programming and cutting-edge technologies. With a fresh perspective and a hunger to learn, I'm diving headfirst into the dynamic realm of coding.</h3>
+
+- 🌱 I’m currently learning **SQL**
+
+- 👯 I’m looking to collaborate on **Python Projects**
+
+- 📝 I regularly write articles on [https://mrtechyblog.com/](https://mrtechyblog.com/)
+
+- 💬 Ask me about **Tech**
+
+- 📫 How to reach me **aswinrock48@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
